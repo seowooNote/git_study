@@ -1,1 +1,1 @@
-product1: 모니터
+product_name: 컴퓨터
